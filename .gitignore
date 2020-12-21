@@ -2,3 +2,5 @@
 /node_modules
 /yarn.lock
 /package-lock.json
+/docker-compose.yml
+/prisma/.env
